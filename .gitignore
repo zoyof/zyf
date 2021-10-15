@@ -1,0 +1,7 @@
+
+.idea
+.DS_Store
+/script
+/logs/*.log
+__pycache__
+node_modules
